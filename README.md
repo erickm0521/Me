@@ -3,7 +3,7 @@
 <h2>🧩 About Me</h2>
 <p>
   Professional software engineer focused on <strong>enterprise application development</strong> 
-  with experience in <strong>Java (Spring, JEE, WebSphere)</strong>, 
+  with experience in <strong>Java (Spring, JEE, AWS, Azure)</strong>, 
   <strong>Angular</strong>, and <strong>microservices architectures</strong>.<br>
   Strong background in <strong>fintech platforms</strong>, 
   <strong>API integration</strong>, and 
@@ -44,7 +44,7 @@
 
 <h2>📚 Interests</h2>
 <ul>
-  <li>Backbase Engagement Banking Platform</li>
+  <li>Banking Platform</li>
   <li>Clean architecture and DDD</li>
   <li>API security and integration patterns</li>
   <li>Teaching and technical documentation</li>
