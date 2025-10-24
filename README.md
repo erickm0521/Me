@@ -25,14 +25,20 @@
 <p align="center">
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="DataBase Oracle" height="25" src="images/oracle.png"></code>
   <code><img title="SQL server" height="25" src="images/sql-server.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="Azure" height="25" src="images/azure.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="Grafana" height="25" src="images/grafana.png"></code>
+  <code><img title="KeyCloak" height="25" src="images/keycloak.png"></code>
+  <code><img title="DataDog" height="25" src="images/datadog.svg"></code>
+  <code><img title="AWS" height="25" src="images/aws.png"></code>
+  <code><img title="Spring Boot" height="25" src="images/spring-boot.png"></code>
+  <code><img title="Java" height="25" src="images/java.png"></code>
 </p>
 <hr>
 
